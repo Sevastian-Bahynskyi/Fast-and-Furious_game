@@ -1,5 +1,7 @@
 fileFormatVersion: 2
 guid: eae752c23dee2f949aad1b79a71028bc
+labels:
+- Sky
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
